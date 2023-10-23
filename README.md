@@ -26,7 +26,8 @@ I graduated from Korea National Open University this year.
 ```
 🍀 I can't:
 
-  😒 Development dependent on specific programs (e.g. Nexacro, WebSquare, etc.)
+  😒 Development dependent on specific programs
+  (e.g. Nexacro, WebSquare, etc.)
 ```
 
 <!--
