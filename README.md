@@ -23,12 +23,6 @@ I graduated from Korea National Open University this year.
   🖥️ Linux Server Operations
   ...all a little bit.😺
 ```
-```
-🍀 I can't:
-
-  😒 Development dependent on specific programs
-  (e.g. Nexacro, WebSquare, etc.)
-```
 
 <!--
 **mirinae-i/mirinae-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
