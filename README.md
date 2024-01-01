@@ -1,7 +1,7 @@
 ### Hello!
 My name is Seonrak Choe, working under the nickname "Mirinae".
 
-I graduated from Korea National Open University this year.
+I graduated from Korea National Open University last year.
 
 ```
 🍀 My favorite languages:
@@ -15,6 +15,12 @@ I graduated from Korea National Open University this year.
 
   ✨ Algorithms for better program development
   🔒 Security
+```
+```
+🍀 What I'm working:
+
+  📟 Embedded Linux development & testing
+  🔒 Wireless network security solution development & testing
 ```
 ```
 🍀 I can:
